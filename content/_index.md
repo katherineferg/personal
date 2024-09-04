@@ -8,12 +8,10 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I am Vanessa Marley
+    title: Hi there, I'm Kate 🌻
     description_html: >-
-      <p><strong>Photographer</strong> and <strong>Visual Content
-      Strategist</strong> from Albany. I work as a lifestyle, product, and
-      landscape photographer, creating images for a diverse range of requests,
-      from online media to printed artwork.</p>
+      <p>I'm a newbie to web development who is always keen to learn, up-skill,
+      and create visually stunning web components ✨</p>
     image: /images/01.jpg
     image_alt: Vanessa Marley's picture
     cta_button: Get in touch
