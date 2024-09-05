@@ -108,9 +108,9 @@
       margin-bottom: 37px;
     }
 
-    /*@media only screen and (max-width: $mobile) {
-      font-size: 32px;
-    }*/
+    @media only screen and (max-width: $mobile) {
+      font-size: 35px;
+    }
   }
 
   &__description {
