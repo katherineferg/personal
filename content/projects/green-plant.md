@@ -1,15 +1,15 @@
 ---
-date: 2021-01-10 05:20:35 +0300
+_schema: default
+date: 2021-01-10T05:20:35+03:00
 draft: false
-title: Green Plant
+title: CloudCannon
 subtitle: Photography
-tags: [project]
-image: '/images/project-9.jpg'
+image: /uploads/screenshot-2024-09-05-at-5-25-24-pm.png
 seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
   open_graph_type:
   no_index: false
 ---
