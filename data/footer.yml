@@ -4,6 +4,4 @@ footer_menu__settings:
       url: /
     - title: Projects
       url: /projects/
-copyright_text_html: >-
-  <p> 2022 &copy; <a href="/">Vonge</a>. Template by <a
-  href="https://cloudcannon.com/">CloudCannon</a>.</p>
+copyright_text_html: <p> 2024 © Template by <a href="https://cloudcannon.com/">CloudCannon</a>.</p>
