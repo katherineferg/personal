@@ -4,7 +4,7 @@ date: 2021-01-09T05:20:00Z
 draft: false
 title: PaperCut
 subtitle: Building Components
-image: /images/project-8.jpg
+image: /uploads/screenshot-2024-09-05-at-5-15-54-pm.png
 seo:
   page_description:
   canonical_url:
@@ -13,7 +13,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+PaperCut - PaperCut is an Australian based printing solutions company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
 
 ![Palm trees](/images/image-example-3.jpg)
 
