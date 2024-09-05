@@ -17,6 +17,8 @@ content_blocks:
       together and make a difference ✨</p>
     image: /uploads/img-1422.jpg
     image_alt: Vanessa Marley's picture
+    cta_button: Get in touch
+    cta_button_link: '#contact'
     works_button: Projects
     works_button_link: /projects/
     tags: []
