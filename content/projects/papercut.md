@@ -15,7 +15,7 @@ seo:
 ---
 PaperCut is an Australian based Printing Management Software company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
 
-![Palm trees](/images/image-example-3.jpg)
+![PaperCut](/uploads/screenshot-2024-09-06-at-9-34-48-am.png)
 
 Making these components is what gave me confidence, and pushed me to a new level of web development. I was finally able to build beautiful components from scratch, without help. Repetitiveness is key for my learning, and that's exactly what I did. I was also introduced to SCSS for the first time, and it quickly became a preference of mine. The nesting "just made sense" and made my code clean and tidy.
 
