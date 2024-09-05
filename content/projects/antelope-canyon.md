@@ -4,7 +4,7 @@ date: 2021-01-09T05:20:00Z
 draft: false
 title: PaperCut
 subtitle: Building Components
-image: /uploads/screenshot-2024-09-05-at-5-15-54-pm.png
+image: /uploads/papercut-printmanagement-software.png
 seo:
   page_description:
   canonical_url:
