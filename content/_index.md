@@ -14,7 +14,7 @@ content_blocks:
       hailing from the beautiful city of Dunedin, New Zealand. I have recently
       begun my journey in the tech world, so I'm always keen to learn, up-skill,
       and create visually stunning web components. Let's build cool things
-      together and make a difference ✨hello</p>
+      together and make a difference ✨</p>
     image: /uploads/img-1422.jpg
     image_alt: Vanessa Marley's picture
     cta_button: Get in touch
