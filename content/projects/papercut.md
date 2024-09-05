@@ -4,7 +4,7 @@ date:
 draft: false
 title: PaperCut
 subtitle: Building Components
-image: /uploads/papercut.jpg
+image:
 seo:
   page_description:
   canonical_url:
