@@ -20,6 +20,6 @@ content_blocks:
     cta_button: Get in touch
     cta_button_link: '#contact'
     works_button: Projects
-    works_button_link: /projects/
+    works_button_link: /content/projects/projects
     tags: []
 ---
