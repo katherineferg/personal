@@ -10,7 +10,7 @@ content_blocks:
   - _bookshop_name: hero
     title: Hi there, I'm Kate 🌻
     description_html: >-
-      <p>I'm a newbie <strong>Juinor</strong> <strong>Software Engineer</strong>
+      <p>I'm a  <strong>Juinor</strong> <strong>Software Engineer</strong>
       hailing from the beautiful city of Dunedin, New Zealand. I have recently
       begun my journey in the tech world, so I'm always keen to learn, up-skill,
       and create visually stunning web components. Let's build cool things
