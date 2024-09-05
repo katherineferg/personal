@@ -3,7 +3,7 @@ _schema: default
 date: 2021-01-10T05:20:35+03:00
 draft: false
 title: CloudCannon
-subtitle: Toggle
+subtitle: Pricing Page
 image: /uploads/screenshot-2024-09-05-at-5-27-11-pm.png
 seo:
   page_description:
