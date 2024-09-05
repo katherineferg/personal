@@ -1,19 +1,16 @@
 ---
 title: About
 seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
   open_graph_type:
   no_index: false
 content_blocks:
   - _bookshop_name: page-heading
     title: About
     description:
-  - _bookshop_name: page-image
-    image: /images/page-1.jpg
-    image_alt: My best photo
   - _bookshop_name: content
     content_html: >-
       <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute
@@ -42,10 +39,4 @@ content_blocks:
       plurimas gentis cantibus arbitramur, primarium populi fuisse, quod
       praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram
       tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>
-  - _bookshop_name: newsletter
-    newsletter_title: Join my mailing list
-    newsletter_description: Get inspiration, updates and, cool stuff!
-    newsletter_identifier: >-
-      frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    newsletter_button: Subscribe
 ---
