@@ -1,15 +1,15 @@
 ---
-date: 2021-01-09 05:20:35 +0300
+_schema: default
+date: 2021-01-09T05:20:00Z
 draft: false
-title: Antelope Canyon
-subtitle: Photography
-tags: [travel, photography, nature, project]
-image: '/images/project-8.jpg'
+title: PaperCut
+subtitle: Building Components
+image: /images/project-8.jpg
 seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
   open_graph_type:
   no_index: false
 ---
