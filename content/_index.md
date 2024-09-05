@@ -19,7 +19,7 @@ content_blocks:
     image_alt: Vanessa Marley's picture
     cta_button: Get in touch
     cta_button_link: '#contact'
-    works_button: See my works
-    works_button_link: '#projects'
+    works_button: Projects
+    works_button_link: /projects
     tags: []
 ---
