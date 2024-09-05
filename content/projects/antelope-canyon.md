@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2021-01-09T05:20:00Z
+date:
 draft: false
 title: PaperCut
 subtitle: Building Components
@@ -13,11 +13,11 @@ seo:
   open_graph_type:
   no_index: false
 ---
-PaperCut - PaperCut is an Australian based Printing Management Software company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
+PaperCut is an Australian based Printing Management Software company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
 
 ![Palm trees](/images/image-example-3.jpg)
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+Making these components is what gave me confidence, and pushed me to a new level of web development. I was finally able to build beautiful components from scratch, without help. Repetitiveness is key for my learning, and that's exactly what I did. I was also introduced to SCSS for the first time, and it quickly became a preference of mine. The nesting "just made sense" and made my code clean and tidy.
 
 ![Sea](/images/image-example-4.jpg)
 
