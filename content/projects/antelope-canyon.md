@@ -13,7 +13,7 @@ seo:
   open_graph_type:
   no_index: false
 ---
-PaperCut - PaperCut is an Australian based printing solutions company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
+PaperCut - PaperCut is an Australian based Printing Management Software company, who are clients of CloudCannon. The majority of my workload during my time at CloudCannon was dedicated to building components for PaperCut's marketing site.
 
 ![Palm trees](/images/image-example-3.jpg)
 
