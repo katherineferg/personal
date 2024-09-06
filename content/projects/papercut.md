@@ -2,7 +2,7 @@
 _schema: default
 date:
 draft: false
-title: Paper Cut
+title: PaperCut
 subtitle: Building Components
 image: /uploads/papercut-1.jpg
 seo:
