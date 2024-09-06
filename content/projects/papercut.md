@@ -19,6 +19,6 @@ PaperCut is an Australian based Printing Management Software company, who are cl
 
 Making these components is what gave me confidence, and pushed me to a new level of web development. I was finally able to build beautiful components from scratch, without help. Repetitiveness is key for my learning, and that's exactly what I did. I was also introduced to SCSS for the first time, and it quickly became a preference of mine. The nesting "just made sense" and made my code clean and tidy.
 
-![Sea](/images/image-example-4.jpg)
+![Form image](/uploads/screenshot-2024-09-06-at-12-42-45-pm.png)
 
 Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
