@@ -13,12 +13,12 @@ seo:
   open_graph_type:
   no_index: false
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+CloudCannon is a visual CMS that makes creating websites easy for non devs! I was hired as an intern for them in December 2023, and then became a full-time Junior Software Engineer in March 2024. As this was my first experience post-study, I was able to learn about all things in the development world, from the best there is.
 
 ![CloudCannon Plans](/uploads/screenshot-2024-09-06-at-12-54-18-pm.png)
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+I was put in charge of updating CloudCannon's pricing page on their marketing site. I created a toggle button that would switch between monthly and yearly payment options. This allowed potential new customers to use a visual and fun button that clearly showed all pricing differences. I had a lot of help when building this, but I loved the end result and learnt a lot. The button also links to another part of the page, ensuring both toggle buttons change at the same time.
 
 ![Toggle Prices](/uploads/screenshot-2024-09-06-at-12-54-31-pm.png)
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+This was my debut work for CloudCannon itself - all my other work was for clients, so it was awesome to be able to contribute to the company's website, which is still there today https://cloudcannon.com/pricing/
