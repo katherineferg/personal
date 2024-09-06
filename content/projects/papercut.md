@@ -21,4 +21,10 @@ Making these components is what gave me confidence, and pushed me to a new level
 
 ![Form image](/uploads/screenshot-2024-09-06-at-12-42-45-pm.png)
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+Working on the PaperCut components also got me stuck into using Hugo for the first time. It is the main SSG that I have worked with, and found it a great as a new developer to learn. Overall, building PaperCut components allowed me to use everything I had learnt about front-end development.
+
+####  Pages I built:
+
+* https://www.papercut.com/solutions/sys-admin/
+* https://www.papercut.com/solutions/it-manager/
+* https://www.papercut.com/solutions/smb-owner/
