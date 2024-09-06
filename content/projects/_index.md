@@ -11,8 +11,8 @@ content_blocks:
   - _bookshop_name: page-heading
     title: My works
     description: >-
-      During my short time as a web developer, I've had the opportunity to work
-      on awesome projects, for great companies.
+      During my time as a web developer, I've had the opportunity to work on
+      awesome projects, for great companies.
   - _bookshop_name: projects-list
     show_projects: true
 ---
