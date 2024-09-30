@@ -9,7 +9,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: page-heading
-    title: My Web Development Journey ✨
+    title: My journey in tech
     description:
   - _bookshop_name: content
     content_html: >-
